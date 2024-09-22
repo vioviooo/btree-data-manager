@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/allocator/allocator",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_allctr_allctr.dir/src/allocator.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/src/allocator.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/src/allocator.cpp",
+  "output": "allocator/allocator/CMakeFiles/os_cw_allctr_allctr.dir/src/allocator.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/allocator/allocator",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_allctr_allctr.dir/src/allocator_guardant.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/src/allocator_guardant.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/src/allocator_guardant.cpp",
+  "output": "allocator/allocator/CMakeFiles/os_cw_allctr_allctr.dir/src/allocator_guardant.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/allocator/allocator",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_allctr_allctr.dir/src/allocator_test_utils.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/src/allocator_test_utils.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/src/allocator_test_utils.cpp",
+  "output": "allocator/allocator/CMakeFiles/os_cw_allctr_allctr.dir/src/allocator_test_utils.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/allocator/allocator_boundary_tags",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_boundary_tags/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_allctr_allctr_bndr_tgs.dir/src/allocator_boundary_tags.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_boundary_tags/src/allocator_boundary_tags.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_boundary_tags/src/allocator_boundary_tags.cpp",
+  "output": "allocator/allocator_boundary_tags/CMakeFiles/os_cw_allctr_allctr_bndr_tgs.dir/src/allocator_boundary_tags.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/allocator/allocator_buddies_system",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_buddies_system/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_allctr_allctr_buds_ssm.dir/src/allocator_buddies_system.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_buddies_system/src/allocator_buddies_system.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_buddies_system/src/allocator_buddies_system.cpp",
+  "output": "allocator/allocator_buddies_system/CMakeFiles/os_cw_allctr_allctr_buds_ssm.dir/src/allocator_buddies_system.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/allocator/allocator_global_heap",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_global_heap/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_allctr_allctr_glbl_hp.dir/src/allocator_global_heap.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_global_heap/src/allocator_global_heap.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_global_heap/src/allocator_global_heap.cpp",
+  "output": "allocator/allocator_global_heap/CMakeFiles/os_cw_allctr_allctr_glbl_hp.dir/src/allocator_global_heap.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/allocator/allocator_red_black_tree",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_red_black_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_allctr_allctr_rbt.dir/src/allocator_red_black_tree.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_red_black_tree/src/allocator_red_black_tree.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_red_black_tree/src/allocator_red_black_tree.cpp",
+  "output": "allocator/allocator_red_black_tree/CMakeFiles/os_cw_allctr_allctr_rbt.dir/src/allocator_red_black_tree.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/allocator/allocator_sorted_list",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_sorted_list/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_allctr_allctr_std_lst.dir/src/allocator_sorted_list.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_sorted_list/src/allocator_sorted_list.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_sorted_list/src/allocator_sorted_list.cpp",
+  "output": "allocator/allocator_sorted_list/CMakeFiles/os_cw_allctr_allctr_std_lst.dir/src/allocator_sorted_list.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/common",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_cmmn.dir/src/extra_utility.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/src/extra_utility.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/src/extra_utility.cpp",
+  "output": "common/CMakeFiles/os_cw_cmmn.dir/src/extra_utility.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/common",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_cmmn.dir/src/file_cannot_be_opened.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/src/file_cannot_be_opened.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/src/file_cannot_be_opened.cpp",
+  "output": "common/CMakeFiles/os_cw_cmmn.dir/src/file_cannot_be_opened.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/common",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_cmmn.dir/src/not_implemented.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/src/not_implemented.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/src/not_implemented.cpp",
+  "output": "common/CMakeFiles/os_cw_cmmn.dir/src/not_implemented.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/common",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_cmmn.dir/src/operation_not_supported.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/src/operation_not_supported.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/src/operation_not_supported.cpp",
+  "output": "common/CMakeFiles/os_cw_cmmn.dir/src/operation_not_supported.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/logger",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lggr_lggr.dir/src/logger.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/src/logger.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/src/logger.cpp",
+  "output": "logger/logger/CMakeFiles/os_cw_lggr_lggr.dir/src/logger.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/logger",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lggr_lggr.dir/src/logger_builder.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/src/logger_builder.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/src/logger_builder.cpp",
+  "output": "logger/logger/CMakeFiles/os_cw_lggr_lggr.dir/src/logger_builder.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/logger",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lggr_lggr.dir/src/logger_guardant.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/src/logger_guardant.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/src/logger_guardant.cpp",
+  "output": "logger/logger/CMakeFiles/os_cw_lggr_lggr.dir/src/logger_guardant.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/client_logger",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lggr_clnt_lggr.dir/src/client_logger.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/src/client_logger.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/src/client_logger.cpp",
+  "output": "logger/client_logger/CMakeFiles/os_cw_lggr_clnt_lggr.dir/src/client_logger.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/client_logger",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lggr_clnt_lggr.dir/src/client_logger_builder.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/src/client_logger_builder.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/src/client_logger_builder.cpp",
+  "output": "logger/client_logger/CMakeFiles/os_cw_lggr_clnt_lggr.dir/src/client_logger_builder.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/client_logger/tests",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/include\" -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lggr_clnt_lggr_tests.dir/client_logger_tests.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/tests/client_logger_tests.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/tests/client_logger_tests.cpp",
+  "output": "logger/client_logger/tests/CMakeFiles/os_cw_lggr_clnt_lggr_tests.dir/client_logger_tests.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googlemock/include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googlemock\" -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/include\" -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googlemock/src/gmock-all.cc\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googlemock/include\" -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googlemock\" -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/include\" -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googlemock/src/gmock_main.cc\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/src/gtest-all.cc\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/include\" -isystem \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/src/gtest_main.cc\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/server_logger",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lggr_srvr_lggr.dir/src/server_logger.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/src/server_logger.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/src/server_logger.cpp",
+  "output": "logger/server_logger/CMakeFiles/os_cw_lggr_srvr_lggr.dir/src/server_logger.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/server_logger",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lggr_srvr_lggr.dir/src/server_logger_builder.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/src/server_logger_builder.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/src/server_logger_builder.cpp",
+  "output": "logger/server_logger/CMakeFiles/os_cw_lggr_srvr_lggr.dir/src/server_logger_builder.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/logger/linux_logging_server",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_lnx_lggng_srvr.dir/src/linux_logging_server.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/linux_logging_server/src/linux_logging_server.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/linux_logging_server/src/linux_logging_server.cpp",
+  "output": "logger/linux_logging_server/CMakeFiles/os_cw_lnx_lggng_srvr.dir/src/linux_logging_server.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/dbms/common_types",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/common_types/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_dbms_cmmn_types.dir/src/tdata.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/common_types/src/tdata.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/common_types/src/tdata.cpp",
+  "output": "dbms/common_types/CMakeFiles/os_cw_dbms_cmmn_types.dir/src/tdata.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/dbms/manager_server",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/common_types/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/search_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/search_tree/indexing_tree/b_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_dbms_mngr_srvr.dir/manager_server.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/manager_server/manager_server.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/manager_server/manager_server.cpp",
+  "output": "dbms/manager_server/CMakeFiles/os_cw_dbms_mngr_srvr.dir/manager_server.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/dbms/db_storage",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/db_storage/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/search_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/search_tree/indexing_tree/b_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_boundary_tags/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_global_heap/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_buddies_system/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_sorted_list/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_red_black_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/common_types/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_dbms_db_strg.dir/src/db_storage.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/db_storage/src/db_storage.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/db_storage/src/db_storage.cpp",
+  "output": "dbms/db_storage/CMakeFiles/os_cw_dbms_db_strg.dir/src/db_storage.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/dbms/db_storage/server",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/db_storage/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/server_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-src/include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/search_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/associative_container/search_tree/indexing_tree/b_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/logger/client_logger/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_boundary_tags/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_global_heap/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_buddies_system/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_sorted_list/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator_red_black_tree/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/common_types/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_dbms_db_strg_srvr.dir/db_storage_server.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/db_storage/server/db_storage_server.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/db_storage/server/db_storage_server.cpp",
+  "output": "dbms/db_storage/server/CMakeFiles/os_cw_dbms_db_strg_srvr.dir/db_storage_server.cpp.o"
+},
+{
+  "directory": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/dbms/client",
+  "command": "/usr/bin/clang++  -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/common_types/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/common/./include\" -I\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/allocator/allocator/./include\" -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/os_cw_dbms_clnt.dir/client.cpp.o -c \"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/client/client.cpp\"",
+  "file": "/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/dbms/client/client.cpp",
+  "output": "dbms/client/CMakeFiles/os_cw_dbms_clnt.dir/client.cpp.o"
+}
+]

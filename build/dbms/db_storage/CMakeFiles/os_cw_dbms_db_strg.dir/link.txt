@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos_cw_dbms_db_strg.a CMakeFiles/os_cw_dbms_db_strg.dir/src/db_storage.cpp.o
+/usr/bin/ranlib libos_cw_dbms_db_strg.a

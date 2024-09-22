@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
+/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule

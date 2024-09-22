@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos_cw_lggr_lggr.a CMakeFiles/os_cw_lggr_lggr.dir/src/logger.cpp.o CMakeFiles/os_cw_lggr_lggr.dir/src/logger_builder.cpp.o CMakeFiles/os_cw_lggr_lggr.dir/src/logger_guardant.cpp.o
+/usr/bin/ranlib libos_cw_lggr_lggr.a

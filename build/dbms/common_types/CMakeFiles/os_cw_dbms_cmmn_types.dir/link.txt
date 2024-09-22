@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos_cw_dbms_cmmn_types.a CMakeFiles/os_cw_dbms_cmmn_types.dir/src/tdata.cpp.o
+/usr/bin/ranlib libos_cw_dbms_cmmn_types.a

@@ -1,0 +1,21 @@
+# ninja log v5
+0	10	1717678629746333438	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	2ee36063de2e5e9a
+1241	1265	1717678631000526102	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	1fc063e6c4384905
+1265	1284	1717678631019601869	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	887ce974a8a9ac88
+1309	1321	1717678631056619849	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	4daebe9ad32a8c14
+0	10	1717678629746333438	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	2ee36063de2e5e9a
+1321	1335	1717678631071611576	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	5bcea1c192bc0c08
+10	1216	1717678630951598508	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	81c748ef0e3844ad
+1309	1321	1717678631056619849	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	4daebe9ad32a8c14
+1321	1335	1717678631071611576	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	5bcea1c192bc0c08
+1216	1241	1717678630976427996	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9efda55f476a65c7
+1241	1265	1717678631000526102	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	1fc063e6c4384905
+10	1216	1717678630951598508	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	81c748ef0e3844ad
+1284	1298	1717678631034160592	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b297c2328625e766
+1216	1241	1717678630976427996	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9efda55f476a65c7
+1265	1284	1717678631019601869	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	887ce974a8a9ac88
+1284	1298	1717678631034160592	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b297c2328625e766
+1298	1309	1717678631045526368	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	71999a59b7ff0ca1
+1321	1335	1717678631071611576	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	5bcea1c192bc0c08
+1321	1335	1717678631071611576	CMakeFiles/googletest-populate-complete	5bcea1c192bc0c08
+1298	1309	1717678631045526368	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	71999a59b7ff0ca1

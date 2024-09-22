@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos_cw_lggr_clnt_lggr.a CMakeFiles/os_cw_lggr_clnt_lggr.dir/src/client_logger.cpp.o CMakeFiles/os_cw_lggr_clnt_lggr.dir/src/client_logger_builder.cpp.o
+/usr/bin/ranlib libos_cw_lggr_clnt_lggr.a

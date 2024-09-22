@@ -1,0 +1,5 @@
+addPool po 4
+addSchema po jojo 5
+addCollection po jojo sc 4 buddies_system first
+add po jojo sc banana 59 australia
+obtain po jojo sc banana

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos_cw_allctr_allctr.a CMakeFiles/os_cw_allctr_allctr.dir/src/allocator.cpp.o CMakeFiles/os_cw_allctr_allctr.dir/src/allocator_guardant.cpp.o CMakeFiles/os_cw_allctr_allctr.dir/src/allocator_test_utils.cpp.o
+/usr/bin/ranlib libos_cw_allctr_allctr.a

@@ -1,0 +1,143 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "associative_container/search_tree/libos_cw_assctv_cntnr_srch_tr.dylib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"associative_container/search_tree/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "os_cw_allctr_allctr::@67a2d12acd41ed6b0bc3"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "os_cw_assctv_cntnr::@eceec357cdd12af20473"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "os_cw_cmmn::@bfc844598bd03e848b3c"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "os_cw_lggr_lggr::@af94273c3084cfb43adb"
+		}
+	],
+	"id" : "os_cw_assctv_cntnr_srch_tr::@32bbdc00ff9a6995c868",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,\"/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/associative_container\"",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "../../common/libos_cw_cmmn.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "../../logger/logger/libos_cw_lggr_lggr.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "../../allocator/allocator/libos_cw_allctr_allctr.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "../libos_cw_assctv_cntnr.1.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "../../common/libos_cw_cmmn.a",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "os_cw_assctv_cntnr_srch_tr",
+	"nameOnDisk" : "libos_cw_assctv_cntnr_srch_tr.dylib",
+	"paths" : 
+	{
+		"build" : "associative_container/search_tree",
+		"source" : "associative_container/search_tree"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "associative_container/search_tree/include/search_tree.h",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

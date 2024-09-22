@@ -1,0 +1,24 @@
+{
+  "server_logger_cfg": {
+    "format_string": "%d %t - [%s] %m",
+    "logger_files": {
+      "./debug": [
+        "DEBUG"
+      ],
+      "./errors": [
+        "WARNING",
+        "ERROR"
+      ],
+      "./info": [
+        "INFORMATION",
+        "TRACE"
+      ],
+      "console": [
+        "DEBUG",
+        "WARNING",
+        "INFORMATION",
+        "ERROR"
+      ]
+    }
+  }
+}

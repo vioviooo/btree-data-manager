@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos_cw_allctr_allctr_std_lst.a CMakeFiles/os_cw_allctr_allctr_std_lst.dir/src/allocator_sorted_list.cpp.o
+/usr/bin/ranlib libos_cw_allctr_allctr_std_lst.a

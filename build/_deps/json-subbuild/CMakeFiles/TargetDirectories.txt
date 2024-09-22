@@ -1,0 +1,3 @@
+/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-subbuild/CMakeFiles/json-populate.dir
+/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-subbuild/CMakeFiles/edit_cache.dir
+/Users/vioviooo/Downloads/Telegram Desktop/os_cw_final 2/build/_deps/json-subbuild/CMakeFiles/rebuild_cache.dir

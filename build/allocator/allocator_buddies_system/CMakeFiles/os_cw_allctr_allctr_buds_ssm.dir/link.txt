@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos_cw_allctr_allctr_buds_ssm.a CMakeFiles/os_cw_allctr_allctr_buds_ssm.dir/src/allocator_buddies_system.cpp.o
+/usr/bin/ranlib libos_cw_allctr_allctr_buds_ssm.a

@@ -1,0 +1,21 @@
+# ninja log v5
+0	11	1717678631452345814	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	ffde2c80350e8bb9
+1489	1503	1717678632944456762	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete	5d59d126e81b87e8
+1446	1458	1717678632898763698	json-populate-prefix/src/json-populate-stamp/json-populate-configure	e67178abbbe608ee
+0	11	1717678631452345814	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	ffde2c80350e8bb9
+1433	1446	1717678632886798417	json-populate-prefix/src/json-populate-stamp/json-populate-patch	1877253cbfe947f8
+11	1420	1717678632860550623	json-populate-prefix/src/json-populate-stamp/json-populate-download	7254096f2c9cb8cc
+1469	1479	1717678632920362656	json-populate-prefix/src/json-populate-stamp/json-populate-install	22ead025171a5529
+1479	1489	1717678632930226792	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	9bb0b8dc78e9b8f2
+1420	1433	1717678632874324672	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	67f6438d650fb6f7
+1420	1433	1717678632874324672	json-populate-prefix/src/json-populate-stamp/json-populate-update	67f6438d650fb6f7
+11	1420	1717678632860550623	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	7254096f2c9cb8cc
+1458	1469	1717678632909933097	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	354b3bde74934f00
+1479	1489	1717678632930226792	json-populate-prefix/src/json-populate-stamp/json-populate-test	9bb0b8dc78e9b8f2
+1469	1479	1717678632920362656	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	22ead025171a5529
+1433	1446	1717678632886798417	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	1877253cbfe947f8
+1458	1469	1717678632909933097	json-populate-prefix/src/json-populate-stamp/json-populate-build	354b3bde74934f00
+1446	1458	1717678632898763698	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	e67178abbbe608ee
+1489	1503	1717678632944456762	CMakeFiles/json-populate-complete	5d59d126e81b87e8
+1489	1503	1717678632944456762	json-populate-prefix/src/json-populate-stamp/json-populate-done	5d59d126e81b87e8
+1489	1503	1717678632944456762	/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	5d59d126e81b87e8

@@ -1,0 +1,181 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "associative_container/search_tree/indexing_tree/b_tree/libos_cw_assctv_cntnr_srch_tr_indxng_tr_b_tr.dylib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"associative_container/search_tree/indexing_tree/b_tree/CMakeLists.txt",
+			"logger/client_logger/CMakeLists.txt",
+			"associative_container/search_tree/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 22,
+				"parent" : 6
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 21,
+				"parent" : 8
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "os_cw_allctr_allctr::@67a2d12acd41ed6b0bc3"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "os_cw_assctv_cntnr::@eceec357cdd12af20473"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "os_cw_assctv_cntnr_srch_tr::@32bbdc00ff9a6995c868"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "os_cw_cmmn::@bfc844598bd03e848b3c"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "os_cw_lggr_lggr::@af94273c3084cfb43adb"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "os_cw_lggr_clnt_lggr::@1192419ba09c9016d213"
+		}
+	],
+	"id" : "os_cw_assctv_cntnr_srch_tr_indxng_tr_b_tr::@5f55263ba9f8a52ea7f9",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/associative_container/search_tree -Wl,-rpath,/Users/nikitatretakov/Uni/Labs/MathPracticum/os_cw_final/cmake-build-debug/associative_container",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "common/libos_cw_cmmn.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "logger/client_logger/libos_cw_lggr_clnt_lggr.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "associative_container/search_tree/libos_cw_assctv_cntnr_srch_tr.1.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "associative_container/libos_cw_assctv_cntnr.1.0.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "common/libos_cw_cmmn.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "logger/logger/libos_cw_lggr_lggr.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "allocator/allocator/libos_cw_allctr_allctr.a",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "os_cw_assctv_cntnr_srch_tr_indxng_tr_b_tr",
+	"nameOnDisk" : "libos_cw_assctv_cntnr_srch_tr_indxng_tr_b_tr.dylib",
+	"paths" : 
+	{
+		"build" : "associative_container/search_tree/indexing_tree/b_tree",
+		"source" : "associative_container/search_tree/indexing_tree/b_tree"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "associative_container/search_tree/indexing_tree/b_tree/include/b_tree.h",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

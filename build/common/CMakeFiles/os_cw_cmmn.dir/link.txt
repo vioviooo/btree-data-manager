@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos_cw_cmmn.a CMakeFiles/os_cw_cmmn.dir/src/extra_utility.cpp.o CMakeFiles/os_cw_cmmn.dir/src/file_cannot_be_opened.cpp.o CMakeFiles/os_cw_cmmn.dir/src/not_implemented.cpp.o CMakeFiles/os_cw_cmmn.dir/src/operation_not_supported.cpp.o
+/usr/bin/ranlib libos_cw_cmmn.a
